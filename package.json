@@ -17,7 +17,7 @@
   "bugs": {
     "url": "https://github.com/Sav2234/techblog/issues"
   },
-  "homepage": "https://github.com/Sav2234/techblog#readme",
+  "homepage": "https://github.com/Sav2234/techblog",
   "dependencies": {
     "bcrypt": "^5.0.1",
     "connect-session-sequelize": "^7.1.2",
